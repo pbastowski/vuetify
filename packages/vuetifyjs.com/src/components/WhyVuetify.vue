@@ -62,7 +62,7 @@
 
     computed: {
       philosophies () {
-        return this.$t('GettingStarted.WhyVuetify.philosophies', 'en').map((o, i) => {
+        return this.$t('GettingStarted.WhyVuetify.philosophies', this.$i18n.fallbackLocale).map((o, i) => {
           return Object.assign({}, o, this.icons[i])
         })
       }

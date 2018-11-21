@@ -9,6 +9,8 @@
   import languages from '@/data/i18n/languages.json'
   import NotFoundPage from '@/pages/general/404Page.vue'
 
+  const fallbackLocale = languages.find(lang => lang.fallback === true).locale
+
   export default {
     components: {
       NotFoundPage
@@ -17,7 +19,7 @@
     props: {
       lang: {
         type: String,
-        default: 'en'
+        default: fallbackLocale
       }
     },
 
