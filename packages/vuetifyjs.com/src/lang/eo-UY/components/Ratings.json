@@ -1,0 +1,45 @@
+{
+  "header": "crwdns7630:0crwdne7630:0",
+  "headerText": "crwdns7632:0crwdne7632:0",
+  "examples": {
+    "usage": {
+      "header": "crwdns7634:0crwdne7634:0",
+      "desc": "crwdns7636:0crwdne7636:0"
+    },
+    "sizes": {
+      "header": "crwdns7638:0crwdne7638:0",
+      "desc": "crwdns7640:0crwdne7640:0"
+    },
+    "length": {
+      "header": "crwdns7642:0crwdne7642:0",
+      "desc": "crwdns7644:0crwdne7644:0"
+    },
+    "increments": {
+      "header": "crwdns7646:0crwdne7646:0",
+      "desc": "crwdns7648:0crwdne7648:0"
+    },
+    "slots": {
+      "header": "crwdns7650:0crwdne7650:0",
+      "desc": "crwdns7652:0crwdne7652:0"
+    },
+    "card": {
+      "header": "crwdns7654:0crwdne7654:0",
+      "desc": "crwdns7656:0crwdne7656:0"
+    },
+    "advanced": {
+      "header": "crwdns7658:0crwdne7658:0",
+      "desc": "crwdns7660:0crwdne7660:0"
+    }
+  },
+  "props": {
+    "backgroundColor": "crwdns7662:0crwdne7662:0",
+    "emptyIcon": "crwdns7664:0crwdne7664:0",
+    "fullIcon": "crwdns7666:0crwdne7666:0",
+    "halfIcon": "crwdns7668:0crwdne7668:0",
+    "halfIncrements": "crwdns7670:0crwdne7670:0",
+    "hover": "crwdns7672:0crwdne7672:0",
+    "length": "crwdns7674:0crwdne7674:0",
+    "readonly": "crwdns7676:0crwdne7676:0",
+    "value": "crwdns7678:0crwdne7678:0"
+  }
+}

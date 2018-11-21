@@ -1,0 +1,50 @@
+{
+  "header": "crwdns6054:0crwdne6054:0",
+  "headerText": "crwdns6056:0crwdne6056:0",
+  "supplemental": [
+    "crwdns6058:0crwdne6058:0"
+  ],
+  "examples": {
+    "autocomplete": {
+      "header": "crwdns6060:0crwdne6060:0",
+      "desc": "crwdns6062:0crwdne6062:0"
+    },
+    "api": {
+      "header": "crwdns6064:0crwdne6064:0",
+      "desc": "crwdns6066:0crwdne6066:0"
+    },
+    "scopedSlots": {
+      "header": "crwdns6068:0crwdne6068:0",
+      "desc": "crwdns6070:0crwdne6070:0"
+    },
+    "customFilter": {
+      "header": "crwdns6072:0crwdne6072:0",
+      "desc": "crwdns6074:0crwdne6074:0"
+    },
+    "asynchronous": {
+      "header": "crwdns6076:0crwdne6076:0",
+      "desc": "crwdns6078:0crwdne6078:0"
+    },
+    "advanced": {
+      "header": "crwdns6080:0crwdne6080:0",
+      "desc": "crwdns6082:0crwdne6082:0"
+    }
+  },
+  "props": {
+    "noFilter": "crwdns6084:0crwdne6084:0",
+    "hideNoData": "crwdns6086:0crwdne6086:0"
+  },
+  "slots": {
+    "item": "crwdns6088:0crwdne6088:0",
+    "noData": "crwdns6090:0crwdne6090:0",
+    "selection": "crwdns6092:0crwdne6092:0"
+  },
+  "scopedSlots": {
+    "item": "crwdns6094:0crwdne6094:0",
+    "selection": "crwdns6096:0crwdne6096:0"
+  },
+  "events": {
+    "update:error": "crwdns6098:0crwdne6098:0",
+    "update:searchInput": "crwdns6100:0crwdne6100:0"
+  }
+}

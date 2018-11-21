@@ -1,0 +1,32 @@
+{
+  "header": "crwdns6194:0crwdne6194:0",
+  "headerText": "crwdns6196:0crwdne6196:0",
+  "examples": {
+    "textDividers": {
+      "header": "crwdns6198:0crwdne6198:0",
+      "desc": "crwdns6200:0crwdne6200:0"
+    },
+    "iconDividers": {
+      "header": "crwdns6202:0crwdne6202:0",
+      "desc": "crwdns6204:0crwdne6204:0"
+    },
+    "itemSlot": {
+      "header": "crwdns6206:0crwdne6206:0",
+      "desc": "crwdns6208:0crwdne6208:0"
+    }
+  },
+  "props": {
+    "divider": "crwdns6210:0crwdne6210:0",
+    "icons": "crwdns6212:0crwdne6212:0",
+    "items": "crwdns6214:0crwdne6214:0",
+    "justifyCenter": "crwdns6216:0crwdne6216:0",
+    "justifyEnd": "crwdns6218:0crwdne6218:0",
+    "large": "crwdns6220:0crwdne6220:0"
+  },
+  "slots": {
+    "divider": "crwdns6222:0crwdne6222:0"
+  },
+  "scopedSlots": {
+    "item": "crwdns6224:0crwdne6224:0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "header": "crwdns7488:0crwdne7488:0",
+  "headerText": "crwdns7490:0crwdne7490:0",
+  "examples": {
+
+  },
+  "props": {
+    "editable": "crwdns7492:0crwdne7492:0",
+    "overflow": "crwdns7494:0crwdne7494:0",
+    "segmented": "crwdns7496:0crwdne7496:0"
+  },
+  "slots": {
+
+  },
+  "scopedSlots": {
+
+  },
+  "events": {
+
+  }
+}

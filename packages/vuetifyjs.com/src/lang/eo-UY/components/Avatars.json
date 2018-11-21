@@ -1,0 +1,18 @@
+{
+  "header": "crwdns6102:0crwdne6102:0",
+  "headerText": "crwdns6104:0crwdne6104:0",
+  "examples": {
+    "standard": {
+      "header": "crwdns6106:0crwdne6106:0",
+      "desc": "crwdns6108:0crwdne6108:0"
+    },
+    "advanced": {
+      "header": "crwdns6110:0crwdne6110:0",
+      "desc": "crwdns6112:0crwdne6112:0"
+    },
+    "iconAndText": {
+      "header": "crwdns6114:0crwdne6114:0",
+      "desc": "crwdns6116:0crwdne6116:0"
+    }
+  }
+}

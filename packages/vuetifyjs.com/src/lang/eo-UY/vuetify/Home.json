@@ -1,0 +1,60 @@
+{
+  "announcementBanner": "crwdns10354:0crwdne10354:0",
+  "heading1": "crwdns10356:0crwdne10356:0",
+  "heading1cont": "crwdns10358:0crwdne10358:0",
+  "getStarted": "crwdns10360:0crwdne10360:0",
+  "getHelp": "crwdns10362:0crwdne10362:0",
+  "features": [
+    {
+      "img": "crwdns10364:0crwdne10364:0",
+      "title": "crwdns10366:0crwdne10366:0",
+      "text": "crwdns10368:0crwdne10368:0"
+    },
+    {
+      "img": "crwdns10370:0crwdne10370:0",
+      "title": "crwdns10372:0crwdne10372:0",
+      "text": "crwdns10374:0crwdne10374:0"
+    },
+    {
+      "img": "crwdns10376:0crwdne10376:0",
+      "title": "crwdns10378:0crwdne10378:0",
+      "text": "crwdns10380:0crwdne10380:0"
+    }
+  ],
+  "checkFeaturesTitle": "crwdns10382:0crwdne10382:0",
+  "checkFeaturesTitleCtd": "crwdns10384:0crwdne10384:0",
+  "checkFeatures": [
+    "crwdns10386:0crwdne10386:0",
+    "crwdns10388:0crwdne10388:0",
+    "crwdns10390:0crwdne10390:0",
+    "crwdns10392:0crwdne10392:0"
+  ],
+  "checkFeaturesCtd": [
+    "crwdns10394:0crwdne10394:0",
+    "crwdns10396:0crwdne10396:0",
+    "crwdns10398:0crwdne10398:0",
+    "crwdns10400:0crwdne10400:0"
+  ],
+  "componentFramework": "crwdns10402:0crwdne10402:0",
+  "github": "crwdns10404:0crwdne10404:0",
+  "letterFromAuthor": [
+    "crwdns10406:0crwdne10406:0",
+    "crwdns10408:0crwdne10408:0",
+    "crwdns10410:0crwdne10410:0",
+    "crwdns10412:0crwdne10412:0"
+  ],
+  "authorOfVuetify": "crwdns10414:0crwdne10414:0",
+  "support": {
+    "hasVuetifyHelped": "crwdns10416:0crwdne10416:0",
+    "showYourSupport": "crwdns10418:0crwdne10418:0",
+    "becomingAPatron": "crwdns10420:0crwdne10420:0"
+  },
+  "becomeSponsor": "crwdns10422:0crwdne10422:0",
+  "proudlySponsoredBy": "crwdns10424:0crwdne10424:0",
+  "callout": "crwdns10426:0crwdne10426:0",
+  "madeWithVuetify": "crwdns10428:0crwdne10428:0",
+  "materialDesign": "crwdns10430:0crwdne10430:0",
+  "mit": "crwdns10432:0crwdne10432:0",
+  "specialSponsors": "crwdns10434:0crwdne10434:0",
+  "whyVuetify": "crwdns10436:0crwdne10436:0"
+}

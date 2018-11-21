@@ -1,0 +1,26 @@
+{
+  "header": "crwdns6148:0crwdne6148:0",
+  "headerText": "crwdns6150:0crwdne6150:0",
+  "examples": {
+    "iconsAndText": {
+      "header": "crwdns6152:0crwdne6152:0",
+      "desc": "crwdns6154:0crwdne6154:0"
+    },
+    "colorAndShift": {
+      "header": "crwdns6156:0crwdne6156:0",
+      "desc": "crwdns6158:0crwdne6158:0"
+    },
+    "toggle": {
+      "header": "crwdns6160:0crwdne6160:0",
+      "desc": "crwdns6162:0crwdne6162:0"
+    }
+  },
+  "props": {
+    "active": "crwdns6164:0crwdne6164:0",
+    "absolute": "crwdns6166:0crwdne6166:0",
+    "fixed": "crwdns6168:0crwdne6168:0"
+  },
+  "events": {
+    "update:active": "crwdns6170:0crwdne6170:0"
+  }
+}

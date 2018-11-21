@@ -1,0 +1,37 @@
+{
+  "header": "crwdns6314:0crwdne6314:0",
+  "headerText": "crwdns6316:0crwdne6316:0",
+  "examples": {
+    "components": {
+      "header": "crwdns6318:0crwdne6318:0",
+      "desc": "crwdns6320:0crwdne6320:0"
+    },
+    "mediaWithText": {
+      "header": "crwdns6322:0crwdne6322:0",
+      "desc": "crwdns6324:0crwdne6324:0"
+    },
+    "horizontal": {
+      "header": "crwdns6326:0crwdne6326:0",
+      "desc": "crwdns6328:0crwdne6328:0"
+    },
+    "grids": {
+      "header": "crwdns6330:0crwdne6330:0",
+      "desc": "crwdns6332:0crwdne6332:0"
+    },
+    "customActions": {
+      "header": "crwdns6334:0crwdne6334:0",
+      "desc": "crwdns6336:0crwdne6336:0"
+    }
+  },
+  "props": {
+    "contain": "crwdns6338:0crwdne6338:0",
+    "flat": "crwdns6340:0crwdne6340:0",
+    "height": "crwdns6342:0crwdne6342:0",
+    "hover": "crwdns6344:0crwdne6344:0",
+    "img": "crwdns6346:0crwdne6346:0",
+    "primaryTitle": "crwdns6348:0crwdne6348:0",
+    "raised": "crwdns6350:0crwdne6350:0",
+    "src": "crwdns6352:0crwdne6352:0",
+    "tile": "crwdns6354:0crwdne6354:0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "header": "crwdns9684:0crwdne9684:0",
+  "headerText": "crwdns9686:0crwdne9686:0",
+  "components": [
+    "crwdns9688:0crwdne9688:0"
+  ],
+  "examples": {
+    "default": {
+      "header": "crwdns9690:0crwdne9690:0",
+      "desc": "crwdns9692:0crwdne9692:0"
+    },
+    "subheader": {
+      "header": "crwdns9694:0crwdne9694:0",
+      "desc": "crwdns9696:0crwdne9696:0"
+    }
+  },
+  "props": {
+    "tag": "crwdns9698:0crwdne9698:0"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "header": "crwdns6236:0crwdne6236:0",
+  "headerText": "crwdns6238:0crwdne6238:0",
+  "examples": {
+    "usage": {
+      "header": "crwdns6240:0crwdne6240:0",
+      "desc": "crwdns6242:0crwdne6242:0"
+    },
+    "flat": {
+      "header": "crwdns6244:0crwdne6244:0",
+      "desc": "crwdns6246:0crwdne6246:0"
+    },
+    "raised": {
+      "header": "crwdns6248:0crwdne6248:0",
+      "desc": "crwdns6250:0crwdne6250:0"
+    },
+    "depressed": {
+      "header": "crwdns6252:0crwdne6252:0",
+      "desc": "crwdns6254:0crwdne6254:0"
+    },
+    "dropdown": {
+      "header": "crwdns6256:0crwdne6256:0",
+      "desc": "crwdns6258:0crwdne6258:0",
+      "uninverted": true
+    },
+    "icon": {
+      "header": "crwdns6262:0crwdne6262:0",
+      "desc": "crwdns6264:0crwdne6264:0"
+    },
+    "floating": {
+      "header": "crwdns6266:0crwdne6266:0",
+      "desc": "crwdns6268:0crwdne6268:0"
+    },
+    "loaders": {
+      "header": "crwdns6270:0crwdne6270:0",
+      "desc": "crwdns6272:0crwdne6272:0"
+    },
+    "sizing": {
+      "header": "crwdns6274:0crwdne6274:0",
+      "desc": "crwdns6276:0crwdne6276:0"
+    },
+    "outline": {
+      "header": "crwdns6278:0crwdne6278:0",
+      "desc": "crwdns6280:0crwdne6280:0"
+    },
+    "round": {
+      "header": "crwdns6282:0crwdne6282:0",
+      "desc": "crwdns6284:0crwdne6284:0"
+    },
+    "block": {
+      "header": "crwdns6286:0crwdne6286:0",
+      "desc": "crwdns6288:0crwdne6288:0"
+    }
+  },
+  "props": {
+    "v-btn": {
+      "block": "crwdns6290:0crwdne6290:0",
+      "depressed": "crwdns6292:0crwdne6292:0",
+      "fab": "crwdns6294:0crwdne6294:0",
+      "flat": "crwdns6296:0crwdne6296:0",
+      "icon": "crwdns6298:0crwdne6298:0",
+      "inputValue": "crwdns6300:0crwdne6300:0",
+      "large": "crwdns6302:0crwdne6302:0",
+      "loading": "crwdns6304:0crwdne6304:0",
+      "outline": "crwdns6306:0crwdne6306:0",
+      "round": "crwdns6308:0crwdne6308:0",
+      "small": "crwdns6310:0crwdne6310:0",
+      "type": "crwdns6312:0crwdne6312:0"
+    }
+  }
+}

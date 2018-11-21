@@ -1,0 +1,46 @@
+{
+  "header": "crwdns8548:0crwdne8548:0",
+  "headerText": "crwdns8550:0crwdne8550:0",
+  "examples": {
+    "usage": {
+      "desc": "crwdns8552:0crwdne8552:0"
+    },
+    "fileExplorer": {
+      "header": "crwdns8554:0crwdne8554:0",
+      "desc": "crwdns8556:0crwdne8556:0"
+    },
+    "directory": {
+      "header": "crwdns8558:0crwdne8558:0",
+      "desc": "crwdns8560:0crwdne8560:0"
+    },
+    "hotspots": {
+      "header": "crwdns8562:0crwdne8562:0",
+      "desc": "crwdns8564:0crwdne8564:0"
+    }
+  },
+  "props": {
+    "v-treeview": {
+      "activatable": "crwdns8566:0crwdne8566:0",
+      "active": "crwdns8568:0crwdne8568:0",
+      "expandIcon": "crwdns8570:0crwdne8570:0",
+      "hoverable": "crwdns8572:0crwdne8572:0",
+      "indeterminateIcon": "crwdns8574:0crwdne8574:0",
+      "itemChildren": "crwdns8576:0crwdne8576:0",
+      "itemKey": "crwdns8578:0crwdne8578:0",
+      "itemText": "crwdns8580:0crwdne8580:0",
+      "items": "crwdns8582:0crwdne8582:0",
+      "loadChildren": "crwdns8584:0crwdne8584:0",
+      "loadingIcon": "crwdns8586:0crwdne8586:0",
+      "multipleActive": "crwdns8588:0crwdne8588:0",
+      "offIcon": "crwdns8590:0crwdne8590:0",
+      "onIcon": "crwdns8592:0crwdne8592:0",
+      "open": "crwdns8594:0crwdne8594:0",
+      "openAll": "crwdns8596:0crwdne8596:0",
+      "openOnClick": "crwdns8598:0crwdne8598:0",
+      "selectable": "crwdns8600:0crwdne8600:0",
+      "selectedColor": "crwdns8602:0crwdne8602:0",
+      "transition": "crwdns8604:0crwdne8604:0",
+      "value": "crwdns8606:0crwdne8606:0"
+    }
+  }
+}

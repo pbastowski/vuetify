@@ -1,0 +1,22 @@
+{
+  "header": "crwdns8832:0crwdne8832:0",
+  "headerText": "crwdns8834:0crwdne8834:0",
+  "gettingStarted": "crwdns8836:0crwdne8836:0",
+  "gettingStartedText": "crwdns8838:0$vuetifycrwdne8838:0",
+  "availableLocalesText": "crwdns8840:0crwdne8840:0",
+  "createTranslation": "crwdns8842:0crwdne8842:0",
+  "createTranslationText": "crwdns8844:0crwdne8844:0",
+  "customComponents": "crwdns8846:0crwdne8846:0",
+  "customComponentsText": "crwdns8848:0$vuetifycrwdnd8848:0$vuetifycrwdne8848:0",
+  "api": {
+    "current": "crwdns8850:0crwdne8850:0",
+    "locales": "crwdns8852:0crwdne8852:0",
+    "t": "crwdns8854:0crwdne8854:0"
+  },
+  "vueI18nHeader": "crwdns8856:0crwdne8856:0",
+  "vueI18nText1": "crwdns8858:0$vuetifycrwdne8858:0",
+  "vueI18nText2": "crwdns8860:0crwdne8860:0",
+  "rtlHeader": "crwdns8862:0crwdne8862:0",
+  "rtlText1": "crwdns8864:0crwdne8864:0",
+  "rtlText2": "crwdns8866:0$vuetifycrwdne8866:0"
+}

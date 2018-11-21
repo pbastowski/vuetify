@@ -1,0 +1,69 @@
+{
+  "header": "crwdns8064:0crwdne8064:0",
+  "headerText": "crwdns8066:0crwdne8066:0",
+  "examples": {
+    "toolbar": {
+      "header": "crwdns8068:0crwdne8068:0",
+      "desc": "crwdns8070:0crwdne8070:0"
+    },
+    "fixedTabs": {
+      "header": "crwdns8072:0crwdne8072:0",
+      "desc": "crwdns8074:0crwdne8074:0"
+    },
+    "right": {
+      "header": "crwdns8076:0crwdne8076:0",
+      "desc": "crwdns8078:0crwdne8078:0"
+    },
+    "content": {
+      "header": "crwdns8080:0crwdne8080:0",
+      "desc": "crwdns8082:0crwdne8082:0"
+    },
+    "search": {
+      "header": "crwdns8084:0crwdne8084:0",
+      "desc": "crwdns8086:0crwdne8086:0"
+    },
+    "iconsAndText": {
+      "header": "crwdns8088:0crwdne8088:0",
+      "desc": "crwdns8090:0crwdne8090:0"
+    },
+    "desktop": {
+      "header": "crwdns8092:0crwdne8092:0",
+      "desc": "crwdns8094:0crwdne8094:0"
+    },
+    "alignWithTitle": {
+      "header": "crwdns8096:0crwdne8096:0",
+      "desc": "crwdns8098:0crwdne8098:0"
+    },
+    "grow": {
+      "header": "crwdns8100:0crwdne8100:0",
+      "desc": "crwdns8102:0crwdne8102:0"
+    },
+    "overflowToMenu": {
+      "header": "crwdns8104:0crwdne8104:0",
+      "desc": "crwdns8106:0crwdne8106:0"
+    },
+    "pagination": {
+      "header": "crwdns8108:0crwdne8108:0",
+      "desc": "crwdns8110:0crwdne8110:0"
+    },
+    "icons": {
+      "header": "crwdns8112:0crwdne8112:0",
+      "desc": "crwdns8114:0crwdne8114:0"
+    }
+  },
+  "props": {
+    "alignWithTitle": "crwdns8116:0crwdne8116:0",
+    "cycle": "crwdns8118:0crwdne8118:0",
+    "grow": "crwdns8120:0crwdne8120:0",
+    "hideSlider": "crwdns8122:0crwdne8122:0",
+    "iconsAndText": "crwdns8124:0crwdne8124:0",
+    "prevIcon": "crwdns8126:0crwdne8126:0",
+    "nextIcon": "crwdns8128:0crwdne8128:0",
+    "reverseTransition": "crwdns8130:0crwdne8130:0",
+    "right": "crwdns8132:0crwdne8132:0",
+    "showArrows": "crwdns8134:0crwdne8134:0",
+    "sliderColor": "crwdns8136:0crwdne8136:0",
+    "touchless": "crwdns8138:0crwdne8138:0",
+    "transition": "crwdns8140:0crwdne8140:0"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "header": "crwdns9558:0crwdne9558:0",
+  "headerText": "crwdns9560:0crwdne9560:0",
+  "components": [
+    "crwdns9562:0crwdne9562:0"
+  ],
+  "examples": {
+    "grid": {
+      "header": "crwdns9564:0crwdne9564:0",
+      "desc": "crwdns9566:0crwdne9566:0",
+      "uninverted": true
+    },
+    "playground": {
+      "header": "crwdns9570:0crwdne9570:0",
+      "desc": "crwdns9572:0crwdne9572:0",
+      "uninverted": true
+    },
+    "offset": {
+      "header": "crwdns9576:0crwdne9576:0",
+      "desc": "crwdns9578:0crwdne9578:0",
+      "uninverted": true
+    },
+    "order": {
+      "header": "crwdns9582:0crwdne9582:0",
+      "desc": "crwdns9584:0crwdne9584:0",
+      "uninverted": true
+    },
+    "directionAndAlign": {
+      "header": "crwdns9588:0crwdne9588:0",
+      "desc": "crwdns9590:0crwdne9590:0",
+      "uninverted": true
+    },
+    "rowColumnBreakpoint": {
+      "header": "crwdns9594:0crwdne9594:0",
+      "desc": "crwdns9596:0crwdne9596:0",
+      "uninverted": true
+    },
+    "nestedGrid": {
+      "header": "crwdns9600:0crwdne9600:0",
+      "desc": "crwdns9602:0crwdne9602:0",
+      "uninverted": true
+    },
+    "uniqueLayouts": {
+      "header": "crwdns9606:0crwdne9606:0",
+      "desc": "crwdns9608:0crwdne9608:0",
+      "uninverted": true
+    },
+    "spacer": {
+      "header": "crwdns9612:0crwdne9612:0",
+      "desc": "crwdns9614:0crwdne9614:0"
+    },
+    "tags": {
+      "header": "crwdns9616:0crwdne9616:0",
+      "desc": "crwdns9618:0crwdne9618:0"
+    }
+  },
+  "props": {
+    "tag": "crwdns9620:0crwdne9620:0",
+    "alignBaseline": "crwdns9622:0crwdne9622:0",
+    "alignCenter": "crwdns9624:0crwdne9624:0",
+    "alignContentCenter": "crwdns9626:0crwdne9626:0",
+    "alignContentEnd": "crwdns9628:0crwdne9628:0",
+    "alignContentSpaceAround": "crwdns9630:0crwdne9630:0",
+    "alignContentSpaceBetween": "crwdns9632:0crwdne9632:0",
+    "alignContentStart": "crwdns9634:0crwdne9634:0",
+    "alignEnd": "crwdns9636:0crwdne9636:0",
+    "alignStart": "crwdns9638:0crwdne9638:0",
+    "d-{type}": "crwdns9640:0{type}crwdne9640:0",
+    "fillHeight": "crwdns9642:0crwdne9642:0",
+    "justifyCenter": "crwdns9644:0crwdne9644:0",
+    "justifyEnd": "crwdns9646:0crwdne9646:0",
+    "justifySpaceAround": "crwdns9648:0crwdne9648:0",
+    "justifySpaceBetween": "crwdns9650:0crwdne9650:0",
+    "justifyStart": "crwdns9652:0crwdne9652:0",
+    "v-container": {
+      "grid-list-{xs through xl}": "crwdns9654:0crwdne9654:0",
+      "fluid": "crwdns9656:0crwdne9656:0"
+    },
+    "v-flex": {
+      "alignSelfStart": "crwdns9658:0[MDN]crwdne9658:0",
+      "alignSelfEnd": "crwdns9660:0[MDN]crwdne9660:0",
+      "alignSelfCenter": "crwdns9662:0[MDN]crwdne9662:0",
+      "alignSelfBaseline": "crwdns9664:0[MDN]crwdne9664:0",
+      "grow": "crwdns9666:0[MDN]crwdne9666:0",
+      "shrink": "crwdns9668:0[MDN]crwdne9668:0",
+      "offset-(size)(0-12)": "crwdns9670:0crwdne9670:0",
+      "order-(size)(1-12)": "crwdns9672:0crwdne9672:0",
+      "(size)(1-12)": "crwdns9674:0crwdne9674:0"
+    },
+    "v-layout": {
+      "row": "crwdns9676:0crwdne9676:0",
+      "column": "crwdns9678:0crwdne9678:0",
+      "reverse": "crwdns9680:0crwdne9680:0",
+      "wrap": "crwdns9682:0crwdne9682:0"
+    }
+  }
+}

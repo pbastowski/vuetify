@@ -1,0 +1,66 @@
+{
+  "header": "crwdns7870:0crwdne7870:0",
+  "headerText": "crwdns7872:0crwdne7872:0",
+  "examples": {
+    "usage": {
+      "header": "crwdns7874:0crwdne7874:0",
+      "desc": "crwdns7876:0crwdne7876:0"
+    },
+    "thumb": {
+      "header": "crwdns7878:0crwdne7878:0",
+      "desc": "crwdns7880:0crwdne7880:0"
+    },
+    "customThumb": {
+      "header": "crwdns7882:0crwdne7882:0",
+      "desc": "crwdns7884:0crwdne7884:0"
+    },
+    "ticks": {
+      "header": "crwdns7886:0crwdne7886:0",
+      "desc": "crwdns7888:0crwdne7888:0"
+    },
+    "discrete": {
+      "header": "crwdns7890:0crwdne7890:0",
+      "desc": "crwdns7892:0crwdne7892:0"
+    },
+    "icons": {
+      "header": "crwdns7894:0crwdne7894:0",
+      "desc": "crwdns7896:0crwdne7896:0"
+    },
+    "editableNumericValue": {
+      "header": "crwdns7898:0crwdne7898:0",
+      "desc": "crwdns7900:0crwdne7900:0"
+    },
+    "customColors": {
+      "header": "crwdns7902:0crwdne7902:0",
+      "desc": "crwdns7904:0crwdne7904:0"
+    },
+    "validation": {
+      "header": "crwdns7906:0crwdne7906:0",
+      "desc": "crwdns7908:0crwdne7908:0"
+    },
+    "range": {
+      "header": "crwdns7910:0crwdne7910:0",
+      "desc": "crwdns7912:0crwdne7912:0"
+    },
+    "minMax": {
+      "header": "crwdns7914:0crwdne7914:0",
+      "desc": "crwdns7916:0crwdne7916:0"
+    },
+    "metronome": {
+      "header": "crwdns7918:0crwdne7918:0",
+      "desc": "crwdns7920:0crwdne7920:0"
+    }
+  },
+  "props": {
+    "alwaysDirty": "crwdns7922:0crwdne7922:0",
+    "inverseLabel": "crwdns7924:0crwdne7924:0",
+    "step": "crwdns7926:0crwdne7926:0",
+    "thumbColor": "crwdns7928:0crwdne7928:0",
+    "thumbLabel": "crwdns7930:0crwdne7930:0",
+    "thumbSize": "crwdns7932:0crwdne7932:0",
+    "ticks": "crwdns7934:0crwdne7934:0",
+    "tickLabels": "crwdns7936:0crwdne7936:0",
+    "tickSize": "crwdns7938:0crwdne7938:0",
+    "trackColor": "crwdns7940:0crwdne7940:0"
+  }
+}

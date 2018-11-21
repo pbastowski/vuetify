@@ -1,0 +1,21 @@
+{
+  "header": "crwdns6172:0crwdne6172:0",
+  "headerText": "crwdns6174:0crwdne6174:0",
+  "examples": {
+    "standard": {
+      "header": "crwdns6176:0crwdne6176:0",
+      "desc": "crwdns6178:0crwdne6178:0"
+    },
+    "inset": {
+      "header": "crwdns6180:0crwdne6180:0",
+      "desc": "crwdns6182:0crwdne6182:0"
+    }
+  },
+  "props": {
+    "disabled": "crwdns6184:0crwdne6184:0",
+    "hideOverlay": "crwdns6186:0crwdne6186:0",
+    "inset": "crwdns6188:0crwdne6188:0",
+    "lazy": "crwdns6190:0crwdne6190:0",
+    "maxWidth": "crwdns6192:0crwdne6192:0"
+  }
+}

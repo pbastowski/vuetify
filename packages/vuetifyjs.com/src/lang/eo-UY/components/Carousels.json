@@ -1,0 +1,43 @@
+{
+  "header": "crwdns6356:0crwdne6356:0",
+  "headerText": "crwdns6358:0crwdne6358:0",
+  "examples": {
+    "default": {
+      "header": "crwdns6360:0crwdne6360:0",
+      "desc": "crwdns6362:0crwdne6362:0",
+      "uninverted": true
+    },
+    "customTransition": {
+      "header": "crwdns6366:0crwdne6366:0",
+      "desc": "crwdns6368:0crwdne6368:0",
+      "uninverted": true
+    },
+    "customIcons": {
+      "header": "crwdns6372:0crwdne6372:0",
+      "desc": "crwdns6374:0crwdne6374:0",
+      "uninverted": true
+    },
+    "hideDelimiters": {
+      "header": "crwdns6378:0crwdne6378:0",
+      "desc": "crwdns6380:0crwdne6380:0",
+      "uninverted": true
+    },
+    "hideControls": {
+      "header": "crwdns6384:0crwdne6384:0",
+      "desc": "crwdns6386:0crwdne6386:0",
+      "uninverted": true
+    }
+  },
+  "props": {
+    "nextIcon": "crwdns6390:0crwdne6390:0",
+    "prevIcon": "crwdns6392:0crwdne6392:0",
+    "cycle": "crwdns6394:0crwdne6394:0",
+    "delimiterIcon": "crwdns6396:0crwdne6396:0",
+    "hideControls": "crwdns6398:0crwdne6398:0",
+    "hideDelimiters": "crwdns6400:0crwdne6400:0",
+    "interval": "crwdns6402:0crwdne6402:0",
+    "reverseTransition": "crwdns6404:0crwdne6404:0",
+    "src": "crwdns6406:0crwdne6406:0",
+    "transition": "crwdns6408:0crwdne6408:0"
+  }
+}

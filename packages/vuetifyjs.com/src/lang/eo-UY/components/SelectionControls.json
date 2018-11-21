@@ -1,0 +1,75 @@
+{
+  "header": "crwdns7680:0crwdne7680:0",
+  "headerText": "crwdns7682:0crwdne7682:0",
+  "examples": {
+    "example": {
+      "header": "crwdns7684:0crwdne7684:0",
+      "desc": "crwdns7686:0crwdne7686:0"
+    },
+    "checkboxesBoolean": {
+      "header": "crwdns7688:0crwdne7688:0",
+      "desc": "crwdns7690:0crwdne7690:0"
+    },
+    "checkboxesArray": {
+      "header": "crwdns7692:0crwdne7692:0",
+      "desc": "crwdns7694:0crwdne7694:0"
+    },
+    "checkboxesStates": {
+      "header": "crwdns7696:0crwdne7696:0",
+      "desc": "crwdns7698:0crwdne7698:0"
+    },
+    "checkboxesColors": {
+      "header": "crwdns7700:0crwdne7700:0",
+      "desc": "crwdns7702:0crwdne7702:0"
+    },
+    "checkboxesInlineTexfield": {
+      "header": "crwdns7704:0crwdne7704:0",
+      "desc": "crwdns7706:0crwdne7706:0"
+    },
+    "radiosDefault": {
+      "header": "crwdns7708:0crwdne7708:0",
+      "desc": "crwdns7710:0crwdne7710:0"
+    },
+    "radiosDirection": {
+      "header": "crwdns7712:0crwdne7712:0",
+      "desc": "crwdns7714:0crwdne7714:0"
+    },
+    "radiosColors": {
+      "header": "crwdns7716:0crwdne7716:0",
+      "desc": "crwdns7718:0crwdne7718:0"
+    },
+    "switchesBoolean": {
+      "header": "crwdns7720:0crwdne7720:0",
+      "desc": "crwdns7722:0crwdne7722:0"
+    },
+    "switchesArray": {
+      "header": "crwdns7724:0crwdne7724:0",
+      "desc": "crwdns7726:0crwdne7726:0"
+    },
+    "switchesStates": {
+      "header": "crwdns7728:0crwdne7728:0",
+      "desc": "crwdns7730:0crwdne7730:0"
+    },
+    "switchesColors": {
+      "header": "crwdns7732:0crwdne7732:0",
+      "desc": "crwdns7734:0crwdne7734:0"
+    },
+    "labelSlot": {
+      "header": "crwdns7736:0crwdne7736:0",
+      "desc": "crwdns7738:0crwdne7738:0"
+    }
+  },
+  "props": {
+    "column": "crwdns7740:0crwdne7740:0",
+    "mandatory": "crwdns7742:0crwdne7742:0",
+    "name": "crwdns7744:0crwdne7744:0",
+    "row": "crwdns7746:0crwdne7746:0",
+    "indeterminate": "crwdns7748:0crwdne7748:0",
+    "inputValue": "crwdns7750:0crwdne7750:0",
+    "value": "crwdns7752:0crwdne7752:0"
+  },
+  "events": {
+    "change": "crwdns7754:0crwdne7754:0",
+    "update:error": "crwdns7756:0crwdne7756:0"
+  }
+}

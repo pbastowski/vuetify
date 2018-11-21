@@ -1,0 +1,25 @@
+{
+  "header": "crwdns8042:0crwdne8042:0",
+  "headerText": "crwdns8044:0crwdne8044:0",
+  "examples": {
+    "list": {
+      "header": "crwdns8046:0crwdne8046:0",
+      "desc": "crwdns8048:0crwdne8048:0"
+    },
+    "grid": {
+      "header": "crwdns8050:0crwdne8050:0",
+      "desc": "crwdns8052:0crwdne8052:0"
+    },
+    "menu": {
+      "header": "crwdns8054:0crwdne8054:0",
+      "desc": "crwdns8056:0crwdne8056:0"
+    },
+    "social": {
+      "header": "crwdns8058:0crwdne8058:0",
+      "desc": "crwdns8060:0crwdne8060:0"
+    }
+  },
+  "props": {
+    "inset": "crwdns8062:0crwdne8062:0"
+  }
+}

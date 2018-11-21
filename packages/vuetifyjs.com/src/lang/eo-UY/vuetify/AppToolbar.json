@@ -1,0 +1,76 @@
+{
+  "backToDocs": "crwdns10266:0crwdne10266:0",
+  "cart": "crwdns10268:0crwdne10268:0",
+  "docs": "crwdns10270:0crwdne10270:0",
+  "documentation": "crwdns10272:0crwdne10272:0",
+  "support": "crwdns10274:0crwdne10274:0",
+  "supports": [
+    {
+      "href": "crwdns10276:0crwdne10276:0",
+      "text": "crwdns10278:0crwdne10278:0",
+      "icon": "crwdns10280:0crwdne10280:0"
+    },
+    {
+      "href": "crwdns10282:0crwdne10282:0",
+      "text": "crwdns10284:0crwdne10284:0",
+      "icon": "crwdns10286:0crwdne10286:0"
+    },
+    {
+      "href": "crwdns10288:0crwdne10288:0",
+      "text": "crwdns10290:0crwdne10290:0",
+      "icon": "crwdns10292:0crwdne10292:0"
+    },
+    {
+      "href": "crwdns10294:0crwdne10294:0",
+      "text": "crwdns10296:0crwdne10296:0",
+      "icon": "crwdns10298:0crwdne10298:0"
+    }
+  ],
+  "ecosystem": "crwdns10300:0crwdne10300:0",
+  "ecosystems": [
+    {
+      "href": "crwdns10302:0crwdne10302:0",
+      "text": "crwdns10304:0crwdne10304:0",
+      "icon": "crwdns10306:0crwdne10306:0"
+    },
+    {
+      "href": "crwdns10308:0crwdne10308:0",
+      "text": "crwdns10310:0crwdne10310:0",
+      "icon": "crwdns10312:0crwdne10312:0"
+    },
+    {
+      "href": "crwdns10314:0crwdne10314:0",
+      "text": "crwdns10316:0crwdne10316:0",
+      "icon": "crwdns10318:0crwdne10318:0"
+    },
+    {
+      "href": "crwdns10320:0crwdne10320:0",
+      "text": "crwdns10322:0crwdne10322:0",
+      "icon": "crwdns10324:0crwdne10324:0"
+    },
+    {
+      "href": "crwdns10326:0crwdne10326:0",
+      "text": "crwdns10328:0crwdne10328:0",
+      "icon": "crwdns10330:0crwdne10330:0"
+    }
+  ],
+  "quickLinks": "crwdns10332:0crwdne10332:0",
+  "social": "crwdns10334:0crwdne10334:0",
+  "socials": [
+    {
+      "href": "crwdns10336:0crwdne10336:0",
+      "text": "crwdns10338:0crwdne10338:0",
+      "icon": "crwdns10340:0crwdne10340:0"
+    },
+    {
+      "href": "crwdns10342:0crwdne10342:0",
+      "text": "crwdns10344:0crwdne10344:0",
+      "icon": "crwdns10346:0crwdne10346:0"
+    },
+    {
+      "href": "crwdns10348:0crwdne10348:0",
+      "text": "crwdns10350:0crwdne10350:0",
+      "icon": "crwdns10352:0crwdne10352:0"
+    }
+  ]
+}

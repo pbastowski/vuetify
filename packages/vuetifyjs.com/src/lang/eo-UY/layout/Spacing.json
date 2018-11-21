@@ -1,0 +1,38 @@
+{
+  "header": "crwdns9766:0crwdne9766:0",
+  "headerText": "crwdns9768:0crwdne9768:0",
+  "playgroundHeader": "crwdns9770:0crwdne9770:0",
+  "playgroundText1": "crwdns9772:0crwdne9772:0",
+  "playgroundText2": "crwdns9774:0crwdne9774:0",
+  "howText": "crwdns9776:0{property}crwdnd9776:0{direction}crwdnd9776:0{size}crwdne9776:0",
+  "propertyText": "crwdns9778:0crwdne9778:0",
+  "properties": [
+    "crwdns9780:0crwdne9780:0",
+    "crwdns9782:0crwdne9782:0"
+  ],
+  "directionText": "crwdns9784:0crwdne9784:0",
+  "directions": [
+    "crwdns9786:0crwdne9786:0",
+    "crwdns9788:0crwdne9788:0",
+    "crwdns9790:0crwdne9790:0",
+    "crwdns9792:0crwdne9792:0",
+    "crwdns9794:0crwdne9794:0",
+    "crwdns9796:0crwdne9796:0",
+    "crwdns9798:0crwdne9798:0"
+  ],
+  "sizeText": "crwdns9800:0crwdne9800:0",
+  "sizes": [
+    "crwdns9802:0crwdne9802:0",
+    "crwdns9804:0crwdne9804:0",
+    "crwdns9806:0$spacercrwdne9806:0",
+    "crwdns9808:0$spacercrwdne9808:0",
+    "crwdns9810:0$spacercrwdne9810:0",
+    "crwdns9812:0$spacercrwdne9812:0",
+    "crwdns9814:0$spacercrwdne9814:0"
+  ],
+  "horizontalHeader": "crwdns9816:0crwdne9816:0",
+  "horizontalText": "crwdns9818:0crwdne9818:0",
+  "margin": "crwdns9820:0crwdne9820:0",
+  "padding": "crwdns9822:0crwdne9822:0",
+  "size": "crwdns9824:0crwdne9824:0"
+}

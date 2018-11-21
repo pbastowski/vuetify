@@ -1,0 +1,32 @@
+{
+  "header": "crwdns6012:0crwdne6012:0",
+  "headerText": "crwdns6014:0crwdne6014:0",
+  "examples": {
+    "contextual": {
+      "header": "crwdns6016:0crwdne6016:0",
+      "desc": "crwdns6018:0crwdne6018:0"
+    },
+    "closable": {
+      "header": "crwdns6020:0crwdne6020:0",
+      "desc": "crwdns6022:0crwdne6022:0"
+    },
+    "icon": {
+      "header": "crwdns6024:0crwdne6024:0",
+      "desc": "crwdns6026:0crwdne6026:0"
+    },
+    "transition": {
+      "header": "crwdns6028:0crwdne6028:0",
+      "desc": "crwdns6030:0crwdne6030:0"
+    },
+    "outline": {
+      "header": "crwdns6032:0crwdne6032:0",
+      "desc": "crwdns6034:0crwdne6034:0"
+    }
+  },
+  "props": {
+    "dismissible": "crwdns6036:0crwdne6036:0",
+    "icon": "crwdns6038:0crwdne6038:0",
+    "outline": "crwdns6040:0crwdne6040:0",
+    "type": "crwdns6042:0crwdne6042:0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "header": "crwdns9496:0crwdne9496:0",
+  "headerText": "crwdns9498:0crwdne9498:0",
+  "visibilityHeader": "crwdns9500:0crwdne9500:0",
+  "visibilityText": "crwdns9502:0{breakpoint}crwdnd9502:0{condition}crwdne9502:0",
+  "breakpointText": "crwdns9504:0crwdne9504:0",
+  "breakpoints": [
+    "crwdns9506:0crwdne9506:0",
+    "crwdns9508:0crwdne9508:0",
+    "crwdns9510:0crwdne9510:0",
+    "crwdns9512:0crwdne9512:0",
+    "crwdns9514:0crwdne9514:0"
+  ],
+  "conditionText": "crwdns9516:0crwdne9516:0",
+  "conditions": [
+    "crwdns9518:0crwdne9518:0",
+    "crwdns9520:0crwdne9520:0",
+    "crwdns9522:0crwdne9522:0"
+  ],
+  "displayHeader": "crwdns9524:0crwdne9524:0",
+  "displayText": "crwdns9526:0{display}crwdne9526:0",
+  "displays": [
+    "crwdns9528:0crwdne9528:0",
+    "crwdns9530:0crwdne9530:0",
+    "crwdns9532:0crwdne9532:0",
+    "crwdns9534:0crwdne9534:0",
+    "crwdns9536:0crwdne9536:0",
+    "crwdns9538:0crwdne9538:0"
+  ],
+  "exampleText": "crwdns9540:0crwdne9540:0",
+  "overflowHeader": "crwdns9542:0crwdne9542:0",
+  "overflowText": "crwdns9544:0{axis}crwdne9544:0",
+  "overflows": [
+    "crwdns9546:0crwdne9546:0",
+    "crwdns9548:0crwdne9548:0",
+    "crwdns9550:0crwdne9550:0"
+  ]
+}

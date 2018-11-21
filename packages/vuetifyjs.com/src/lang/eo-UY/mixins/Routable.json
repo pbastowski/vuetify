@@ -1,0 +1,15 @@
+{
+  "props": {
+    "activeClass": "crwdns9956:0crwdne9956:0",
+    "append": "crwdns9958:0crwdne9958:0",
+    "disabled": "crwdns9960:0crwdne9960:0",
+    "exact": "crwdns9962:0crwdne9962:0",
+    "exactActiveClass": "crwdns9964:0crwdne9964:0",
+    "href": "crwdns9966:0crwdne9966:0",
+    "nuxt": "crwdns9968:0crwdne9968:0",
+    "replace": "crwdns9970:0crwdne9970:0",
+    "to": "crwdns9972:0crwdne9972:0",
+    "tag": "crwdns9974:0crwdne9974:0",
+    "target": "crwdns9976:0crwdne9976:0"
+  }
+}

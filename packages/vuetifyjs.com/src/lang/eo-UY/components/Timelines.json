@@ -1,0 +1,33 @@
+{
+  "header": "crwdns8346:0crwdne8346:0",
+  "headerText": "crwdns8348:0crwdne8348:0",
+  "examples": {
+    "usage": {
+      "desc": "crwdns8350:0crwdne8350:0"
+    },
+    "small": {
+      "header": "crwdns8352:0crwdne8352:0",
+      "desc": "crwdns8354:0crwdne8354:0"
+    },
+    "icons": {
+      "header": "crwdns8356:0crwdne8356:0",
+      "desc": "crwdns8358:0crwdne8358:0"
+    },
+    "color": {
+      "header": "crwdns8360:0crwdne8360:0",
+      "desc": "crwdns8362:0crwdne8362:0"
+    },
+    "slot": {
+      "header": "crwdns8364:0crwdne8364:0",
+      "desc": "crwdns8366:0crwdne8366:0"
+    },
+    "alert": {
+      "header": "crwdns8368:0crwdne8368:0",
+      "desc": "crwdns8370:0crwdne8370:0"
+    },
+    "advanced": {
+      "header": "crwdns8372:0crwdne8372:0",
+      "desc": "crwdns8374:0crwdne8374:0"
+    }
+  }
+}

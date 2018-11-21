@@ -1,0 +1,18 @@
+{
+  "props": {
+    "activator": "crwdns9900:0crwdne9900:0",
+    "allowOverflow": "crwdns9902:0crwdne9902:0",
+    "inputActivator": "crwdns9904:0crwdne9904:0",
+    "maxWidth": "crwdns9906:0crwdne9906:0",
+    "minWidth": "crwdns9908:0crwdne9908:0",
+    "nudgeBottom": "crwdns9910:0crwdne9910:0",
+    "nudgeLeft": "crwdns9912:0crwdne9912:0",
+    "nudgeRight": "crwdns9914:0crwdne9914:0",
+    "nudgeTop": "crwdns9916:0crwdne9916:0",
+    "nudgeWidth": "crwdns9918:0crwdne9918:0",
+    "offsetOverflow": "crwdns9920:0crwdne9920:0",
+    "positionX": "crwdns9922:0crwdne9922:0",
+    "positionY": "crwdns9924:0crwdne9924:0",
+    "zIndex": "crwdns9926:0crwdne9926:0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "header": "crwdns6496:0crwdne6496:0",
+  "headerText": "crwdns6498:0crwdne6498:0",
+  "examples": {
+    "simple": {
+      "header": "crwdns6500:0crwdne6500:0",
+      "desc": "crwdns6502:0crwdne6502:0"
+    },
+    "slots": {
+      "header": "crwdns6504:0crwdne6504:0",
+      "desc": "crwdns6506:0crwdne6506:0"
+    }
+  },
+  "props": {
+    "contentClass": "crwdns6508:0crwdne6508:0",
+    "contentProps": "crwdns6510:0crwdne6510:0",
+    "contentTag": "crwdns6512:0crwdne6512:0",
+    "nextIcon": "crwdns6514:0crwdne6514:0",
+    "prevIcon": "crwdns6516:0crwdne6516:0"
+  },
+  "slots": {
+    "header": "crwdns6518:0crwdne6518:0"
+  },
+  "events": {
+    "update:pagination": "crwdns6520:0crwdne6520:0"
+  }
+}

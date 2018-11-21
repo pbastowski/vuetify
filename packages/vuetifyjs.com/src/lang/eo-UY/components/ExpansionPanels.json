@@ -1,0 +1,59 @@
+{
+  "header": "crwdns6894:0crwdne6894:0",
+  "headerText": "crwdns6896:0crwdne6896:0",
+  "examples": {
+    "accordion": {
+      "header": "crwdns6898:0crwdne6898:0",
+      "desc": "crwdns6900:0crwdne6900:0"
+    },
+    "expand": {
+      "header": "crwdns6902:0crwdne6902:0",
+      "desc": "crwdns6904:0crwdne6904:0",
+      "uninverted": true
+    },
+    "external": {
+      "header": "crwdns6908:0crwdne6908:0",
+      "desc": "crwdns6910:0crwdne6910:0"
+    },
+    "disabledAndReadonly": {
+      "header": "crwdns6912:0crwdne6912:0",
+      "desc": "crwdns6914:0crwdne6914:0"
+    },
+    "popout": {
+      "header": "crwdns6916:0crwdne6916:0",
+      "desc": "crwdns6918:0crwdne6918:0",
+      "inverted": true
+    },
+    "customIcons": {
+      "header": "crwdns6922:0crwdne6922:0",
+      "desc": "crwdns6924:0crwdne6924:0"
+    },
+    "focusable": {
+      "header": "crwdns6926:0crwdne6926:0",
+      "desc": "crwdns6928:0crwdne6928:0",
+      "uninverted": true
+    }
+  },
+  "props": {
+    "v-expansion-panel": {
+      "disabled": "crwdns6932:0crwdne6932:0",
+      "expand": "crwdns6934:0crwdne6934:0",
+      "focusable": "crwdns6936:0crwdne6936:0",
+      "inset": "crwdns6938:0crwdne6938:0",
+      "popout": "crwdns6940:0crwdne6940:0",
+      "readonly": "crwdns6942:0crwdne6942:0",
+      "value": "crwdns6944:0crwdne6944:0"
+    },
+    "v-expansion-panel-content": {
+      "disabled": "crwdns6946:0crwdne6946:0",
+      "expandIcon": "crwdns6948:0crwdne6948:0",
+      "hideActions": "crwdns6950:0crwdne6950:0",
+      "readonly": "crwdns6952:0crwdne6952:0",
+      "value": "crwdns6954:0crwdne6954:0"
+    }
+  },
+  "slots": {
+    "actions": "crwdns6956:0crwdne6956:0",
+    "header": "crwdns6958:0crwdne6958:0"
+  }
+}

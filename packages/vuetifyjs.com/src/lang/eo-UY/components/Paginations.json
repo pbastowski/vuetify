@@ -1,0 +1,39 @@
+{
+  "header": "crwdns7498:0crwdne7498:0",
+  "headerText": "crwdns7500:0crwdne7500:0",
+  "examples": {
+    "short": {
+      "header": "crwdns7502:0crwdne7502:0",
+      "desc": "crwdns7504:0crwdne7504:0"
+    },
+    "long": {
+      "header": "crwdns7506:0crwdne7506:0",
+      "desc": "crwdns7508:0crwdne7508:0"
+    },
+    "limit": {
+      "header": "crwdns7510:0crwdne7510:0",
+      "desc": "crwdns7512:0crwdne7512:0"
+    },
+    "round": {
+      "header": "crwdns7514:0crwdne7514:0",
+      "desc": "crwdns7516:0crwdne7516:0"
+    },
+    "icons": {
+      "header": "crwdns7518:0crwdne7518:0",
+      "desc": "crwdns7520:0crwdne7520:0"
+    },
+    "disabled": {
+      "header": "crwdns7522:0crwdne7522:0",
+      "desc": "crwdns7524:0crwdne7524:0"
+    }
+  },
+  "props": {
+    "circle": "crwdns7526:0crwdne7526:0",
+    "disabled": "crwdns7528:0crwdne7528:0",
+    "length": "crwdns7530:0crwdne7530:0",
+    "nextIcon": "crwdns7532:0crwdne7532:0",
+    "prevIcon": "crwdns7534:0crwdne7534:0",
+    "totalVisible": "crwdns7536:0crwdne7536:0",
+    "value": "crwdns7538:0crwdne7538:0"
+  }
+}

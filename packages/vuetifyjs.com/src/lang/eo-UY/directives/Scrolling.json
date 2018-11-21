@@ -1,0 +1,20 @@
+{
+  "header": "crwdns8692:0crwdne8692:0",
+  "headerText": "crwdns8694:0crwdne8694:0",
+  "examples": {
+    "default": {
+      "header": "crwdns8696:0crwdne8696:0",
+      "desc": "crwdns8698:0crwdne8698:0",
+      "uninverted": true
+    },
+    "options": {
+      "header": "crwdns8702:0crwdne8702:0",
+      "desc": "crwdns8704:0crwdne8704:0",
+      "uninverted": true
+    }
+  },
+  "options": {
+    "arg:target": "crwdns8708:0crwdne8708:0",
+    "value": "crwdns8710:0crwdne8710:0"
+  }
+}

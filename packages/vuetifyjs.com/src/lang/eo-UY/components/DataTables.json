@@ -1,0 +1,98 @@
+{
+  "header": "crwdns6522:0crwdne6522:0",
+  "headerText": "crwdns6524:0crwdne6524:0",
+  "examples": {
+    "standard": {
+      "header": "crwdns6526:0crwdne6526:0",
+      "desc": "crwdns6528:0crwdne6528:0"
+    },
+    "noData": {
+      "header": "crwdns6530:0crwdne6530:0",
+      "desc": "crwdns6532:0crwdne6532:0"
+    },
+    "headers": {
+      "header": "crwdns6534:0crwdne6534:0",
+      "desc": "crwdns6536:0crwdne6536:0"
+    },
+    "headerCell": {
+      "header": "crwdns6538:0crwdne6538:0",
+      "desc": "crwdns6540:0crwdne6540:0"
+    },
+    "progress": {
+      "header": "crwdns6542:0crwdne6542:0",
+      "desc": "crwdns6544:0crwdne6544:0"
+    },
+    "footer": {
+      "header": "crwdns6546:0crwdne6546:0",
+      "desc": "crwdns6548:0crwdne6548:0"
+    },
+    "expand": {
+      "header": "crwdns6550:0crwdne6550:0",
+      "desc": "crwdns6552:0crwdne6552:0"
+    },
+    "pageText": {
+      "header": "crwdns6554:0crwdne6554:0",
+      "desc": "crwdns6556:0crwdne6556:0"
+    },
+    "select": {
+      "header": "crwdns6558:0crwdne6558:0",
+      "desc": "crwdns6560:0crwdne6560:0"
+    },
+    "search": {
+      "header": "crwdns6562:0crwdne6562:0",
+      "desc": "crwdns6564:0crwdne6564:0"
+    },
+    "customIcons": {
+      "header": "crwdns6566:0crwdne6566:0",
+      "desc": "crwdns6568:0crwdne6568:0"
+    },
+    "paginate": {
+      "header": "crwdns6570:0crwdne6570:0",
+      "desc": "crwdns6572:0crwdne6572:0"
+    },
+    "sort": {
+      "header": "crwdns6574:0crwdne6574:0",
+      "desc": "crwdns6576:0crwdne6576:0"
+    },
+    "server": {
+      "header": "crwdns6578:0crwdne6578:0",
+      "desc": "crwdns6580:0crwdne6580:0"
+    },
+    "headerless": {
+      "header": "crwdns6582:0crwdne6582:0",
+      "desc": "crwdns6584:0crwdne6584:0"
+    },
+    "editdialog": {
+      "header": "crwdns6586:0crwdne6586:0",
+      "desc": "crwdns6588:0crwdne6588:0"
+    },
+    "crud": {
+      "header": "crwdns6590:0crwdne6590:0",
+      "desc": "crwdns6592:0crwdne6592:0"
+    }
+  },
+  "props": {
+    "v-edit-dialog": {
+      "cancelText": "crwdns6594:0crwdne6594:0",
+      "lazy": "crwdns6596:0crwdne6596:0",
+      "large": "crwdns6598:0crwdne6598:0",
+      "saveText": "crwdns6600:0crwdne6600:0",
+      "transition": "crwdns6602:0crwdne6602:0"
+    },
+    "v-data-table": {
+      "headerText": "crwdns6604:0crwdne6604:0",
+      "headers": "crwdns6606:0crwdne6606:0",
+      "headersLength": "crwdns6608:0crwdne6608:0",
+      "hideHeaders": "crwdns6610:0crwdne6610:0",
+      "sortIcon": "crwdns6612:0crwdne6612:0",
+      "nextIcon": "crwdns6614:0crwdne6614:0",
+      "prevIcon": "crwdns6616:0crwdne6616:0"
+    }
+  },
+  "scopedSlots": {
+    "v-data-table": {
+      "headerCell": "crwdns6618:0crwdne6618:0",
+      "headers": "crwdns6620:0crwdne6620:0"
+    }
+  }
+}

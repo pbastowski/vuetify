@@ -1,0 +1,22 @@
+{
+  "header": "crwdns7540:0crwdne7540:0",
+  "headerText": "crwdns7542:0crwdne7542:0",
+  "examples": {
+    "default": {
+      "header": "crwdns7544:0crwdne7544:0",
+      "desc": "crwdns7546:0crwdne7546:0"
+    },
+    "content": {
+      "header": "crwdns7548:0crwdne7548:0",
+      "desc": "crwdns7550:0crwdne7550:0"
+    },
+    "customHeight": {
+      "header": "crwdns7552:0crwdne7552:0",
+      "desc": "crwdns7554:0crwdne7554:0"
+    }
+  },
+  "props": {
+    "alt": "crwdns7556:0crwdne7556:0",
+    "src": "crwdns7558:0crwdne7558:0"
+  }
+}

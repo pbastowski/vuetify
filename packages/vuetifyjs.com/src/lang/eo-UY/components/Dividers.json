@@ -1,0 +1,39 @@
+{
+  "header": "crwdns6856:0crwdne6856:0",
+  "headerText": "crwdns6858:0crwdne6858:0",
+  "examples": {
+    "fullBleed": {
+      "header": "crwdns6860:0crwdne6860:0",
+      "desc": "crwdns6862:0crwdne6862:0"
+    },
+    "lightAndDark": {
+      "header": "crwdns6864:0crwdne6864:0",
+      "desc": "crwdns6866:0crwdne6866:0",
+      "uninverted": true
+    },
+    "inset": {
+      "header": "crwdns6870:0crwdne6870:0",
+      "desc": "crwdns6872:0crwdne6872:0"
+    },
+    "subheaders": {
+      "header": "crwdns6874:0crwdne6874:0",
+      "desc": "crwdns6876:0crwdne6876:0"
+    },
+    "dividerList": {
+      "header": "crwdns6878:0crwdne6878:0",
+      "desc": "crwdns6880:0crwdne6880:0"
+    },
+    "dividerListPortrait": {
+      "header": "crwdns6882:0crwdne6882:0",
+      "desc": "crwdns6884:0crwdne6884:0"
+    },
+    "vertical": {
+      "header": "crwdns6886:0crwdne6886:0",
+      "desc": "crwdns6888:0crwdne6888:0"
+    }
+  },
+  "props": {
+    "inset": "crwdns6890:0crwdne6890:0",
+    "vertical": "crwdns6892:0crwdne6892:0"
+  }
+}

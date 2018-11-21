@@ -1,0 +1,40 @@
+{
+  "header": "crwdns7116:0crwdne7116:0",
+  "headerText": "crwdns7118:0crwdne7118:0",
+  "examples": {
+    "standard": {
+      "header": "crwdns7120:0crwdne7120:0",
+      "desc": "crwdns7122:0crwdne7122:0"
+    },
+    "fontAwesome": {
+      "header": "crwdns7124:0crwdne7124:0",
+      "desc": "crwdns7126:0crwdne7126:0"
+    },
+    "mdi": {
+      "header": "crwdns7128:0crwdne7128:0",
+      "desc": "crwdns7130:0crwdne7130:0"
+    },
+    "color": {
+      "header": "crwdns7132:0crwdne7132:0",
+      "desc": "crwdns7134:0crwdne7134:0"
+    },
+    "buttons": {
+      "header": "crwdns7136:0crwdne7136:0",
+      "desc": "crwdns7138:0crwdne7138:0"
+    },
+    "clickable": {
+      "header": "crwdns7140:0crwdne7140:0",
+      "desc": "crwdns7142:0crwdne7142:0"
+    }
+  },
+  "props": {
+    "disabled": "crwdns7144:0crwdne7144:0",
+    "large": "crwdns7146:0crwdne7146:0",
+    "left": "crwdns7148:0crwdne7148:0",
+    "medium": "crwdns7150:0crwdne7150:0",
+    "right": "crwdns7152:0crwdne7152:0",
+    "size": "crwdns7154:0crwdne7154:0",
+    "small": "crwdns7156:0crwdne7156:0",
+    "xLarge": "crwdns7158:0crwdne7158:0"
+  }
+}

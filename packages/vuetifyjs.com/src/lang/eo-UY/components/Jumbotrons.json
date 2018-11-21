@@ -1,0 +1,26 @@
+{
+  "header": "crwdns7254:0crwdne7254:0",
+  "headerText": "crwdns7256:0[v-img]crwdnd7256:0[v-responsive]crwdne7256:0",
+  "examples": {
+    "usage": {
+      "header": "crwdns7258:0crwdne7258:0",
+      "desc": "crwdns7260:0crwdne7260:0"
+    },
+    "color": {
+      "header": "crwdns7262:0crwdne7262:0",
+      "desc": "crwdns7264:0crwdne7264:0"
+    },
+    "gradient": {
+      "header": "crwdns7266:0crwdne7266:0",
+      "desc": "crwdns7268:0[here]crwdne7268:0"
+    },
+    "gradientWithImage": {
+      "header": "crwdns7270:0crwdne7270:0",
+      "desc": "crwdns7272:0[here]crwdne7272:0"
+    }
+  },
+  "props": {
+    "gradient": "crwdns7274:0crwdne7274:0",
+    "src": "crwdns7276:0crwdne7276:0"
+  }
+}

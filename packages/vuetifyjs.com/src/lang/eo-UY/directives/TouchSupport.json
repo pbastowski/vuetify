@@ -1,0 +1,15 @@
+{
+  "header": "crwdns8712:0crwdne8712:0",
+  "headerText": "crwdns8714:0crwdne8714:0",
+  "examples": {
+    "default": {
+      "header": "crwdns8716:0crwdne8716:0",
+      "desc": "crwdns8718:0crwdne8718:0",
+      "uninverted": true
+    }
+  },
+  "options": {
+    "{ move, start, end }": "crwdns8722:0crwdne8722:0",
+    "{ up, down, left, right }": "crwdns8724:0crwdne8724:0"
+  }
+}

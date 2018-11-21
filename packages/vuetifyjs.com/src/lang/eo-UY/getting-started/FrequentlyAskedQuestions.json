@@ -1,0 +1,95 @@
+{
+  "header": "crwdns9030:0crwdne9030:0",
+  "headerText": "crwdns9032:0[issue]crwdnd9032:0[discord]crwdne9032:0",
+  "question": "crwdns9034:0crwdne9034:0",
+  "answer": "crwdns9036:0crwdne9036:0",
+  "noResultsFound": "crwdns9038:0crwdne9038:0",
+  "resetSearch": "crwdns9040:0crwdne9040:0",
+  "gotchas": [
+    {
+      "q": "crwdns9042:0crwdne9042:0",
+      "a": "crwdns9044:0crwdne9044:0"
+    },
+    {
+      "q": "crwdns9046:0crwdne9046:0",
+      "a": "crwdns9048:0[template]crwdnd9048:0[community]crwdne9048:0"
+    },
+    {
+      "q": "crwdns9050:0crwdne9050:0",
+      "a": "crwdns9052:0crwdne9052:0"
+    },
+    {
+      "q": "crwdns9054:0crwdne9054:0",
+      "a": "crwdns9056:0crwdne9056:0"
+    },
+    {
+      "q": "crwdns9058:0crwdne9058:0",
+      "a": "crwdns9060:0{light|dark}crwdne9060:0"
+    },
+    {
+      "q": "crwdns9062:0crwdne9062:0",
+      "a": "crwdns9064:0crwdne9064:0"
+    },
+    {
+      "q": "crwdns9066:0crwdne9066:0",
+      "a": "crwdns9068:0crwdne9068:0"
+    },
+    {
+      "q": "crwdns9070:0crwdne9070:0",
+      "a": "crwdns9072:0{ overflow-y: auto }crwdne9072:0"
+    },
+    {
+      "q": "crwdns9074:0crwdne9074:0",
+      "a": "crwdns9076:0crwdne9076:0"
+    },
+    {
+      "q": "crwdns9078:0crwdne9078:0",
+      "a": "crwdns9080:0[documentation]crwdne9080:0"
+    },
+    {
+      "q": "crwdns9082:0crwdne9082:0",
+      "a": "crwdns9084:0crwdne9084:0",
+      "s": "crwdns9086:0crwdne9086:0"
+    },
+    {
+      "q": "crwdns9088:0crwdne9088:0",
+      "a": "crwdns9090:0crwdne9090:0",
+      "a2": [
+        "crwdns9092:0crwdne9092:0",
+        "crwdns9094:0crwdne9094:0"
+      ]
+    },
+    {
+      "q": "crwdns9096:0crwdne9096:0",
+      "a": "crwdns9098:0crwdne9098:0",
+      "s": "crwdns9100:0crwdne9100:0"
+    },
+    {
+      "q": "crwdns9102:0crwdne9102:0",
+      "a": "crwdns9104:0[vue.config.js]crwdnd9104:0[vue-loader]crwdne9104:0",
+      "s": "crwdns9106:0crwdne9106:0"
+    },
+    {
+      "q": "crwdns9108:0crwdne9108:0",
+      "a": "crwdns9110:0crwdne9110:0",
+      "a2": [
+        "crwdns9112:0[v1.3.0]crwdne9112:0",
+        "crwdns9114:0[v1.2.0]crwdne9114:0",
+        "crwdns9116:0[v1.1.0]crwdne9116:0",
+        "crwdns9118:0[v1.0.0]crwdne9118:0",
+        "crwdns9120:0[v0.17.0]crwdne9120:0",
+        "crwdns9122:0[v0.16.0]crwdne9122:0",
+        "crwdns9124:0[v0.15.0]crwdne9124:0",
+        "crwdns9126:0[v0.14.0]crwdne9126:0",
+        "crwdns9128:0[v0.13.0]crwdne9128:0",
+        "crwdns9130:0[v0.12.0]crwdne9130:0"
+      ]
+    },
+    {
+      "q": "crwdns9132:0crwdne9132:0",
+      "a": "crwdns9134:0crwdne9134:0"
+    }
+  ],
+  "questionHeader": "crwdns9136:0crwdne9136:0",
+  "questionButton": "crwdns9138:0crwdne9138:0"
+}

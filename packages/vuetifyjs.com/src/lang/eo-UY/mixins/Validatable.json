@@ -1,0 +1,15 @@
+{
+  "props": {
+    "error": "crwdns10004:0crwdne10004:0",
+    "errorCount": "crwdns10006:0crwdne10006:0",
+    "errorMessages": "crwdns10008:0crwdne10008:0",
+    "messages": "crwdns10010:0crwdne10010:0",
+    "rules": "crwdns10012:0crwdne10012:0",
+    "success": "crwdns10014:0crwdne10014:0",
+    "successMessages": "crwdns10016:0crwdne10016:0",
+    "validateOnBlur": "crwdns10018:0crwdne10018:0"
+  },
+  "events": {
+    "update:error": "crwdns10020:0crwdne10020:0"
+  }
+}

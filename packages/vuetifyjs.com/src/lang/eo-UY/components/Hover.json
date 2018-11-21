@@ -1,0 +1,19 @@
+{
+  "header": "crwdns7102:0crwdne7102:0",
+  "headerText": "crwdns7104:0crwdne7104:0",
+  "examples": {
+    "default": {
+      "desc": "crwdns7106:0crwdne7106:0"
+    },
+    "transition": {
+      "header": "crwdns7108:0crwdne7108:0",
+      "desc": "crwdns7110:0crwdne7110:0"
+    }
+  },
+  "props": {
+    "disabled": "crwdns7112:0crwdne7112:0"
+  },
+  "scopedSlots": {
+    "default": "crwdns7114:0crwdne7114:0"
+  }
+}

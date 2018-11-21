@@ -1,0 +1,33 @@
+{
+  "header": "crwdns10040:0crwdne10040:0",
+  "headerText": "crwdns10042:0crwdne10042:0",
+  "examples": {
+    "slideXTransitions": {
+      "header": "crwdns10044:0crwdne10044:0",
+      "desc": "crwdns10046:0crwdne10046:0"
+    },
+    "slideYTransitions": {
+      "header": "crwdns10048:0crwdne10048:0",
+      "desc": "crwdns10050:0$primarycrwdne10050:0"
+    },
+    "scaleTransition": {
+      "header": "crwdns10052:0crwdne10052:0",
+      "desc": "crwdns10054:0crwdne10054:0"
+    },
+    "fadeTransition": {
+      "header": "crwdns10056:0crwdne10056:0",
+      "desc": "crwdns10058:0crwdne10058:0"
+    },
+    "customOrigin": {
+      "header": "crwdns10060:0crwdne10060:0",
+      "desc": "crwdns10062:0crwdne10062:0"
+    },
+    "todo": {
+      "header": "crwdns10064:0crwdne10064:0",
+      "desc": "crwdns10066:0crwdne10066:0"
+    }
+  },
+  "createYourOwnHeader": "crwdns10068:0crwdne10068:0",
+  "createYourOwnText1": "crwdns10070:0crwdne10070:0",
+  "createYourOwnText2": "crwdns10072:0crwdne10072:0"
+}

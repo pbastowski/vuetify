@@ -1,0 +1,11 @@
+{
+  "props": {
+    "actions": "crwdns9928:0crwdne9928:0",
+    "autosave": "crwdns9930:0crwdne9930:0",
+    "headerColor": "crwdns9932:0crwdne9932:0",
+    "landscape": "crwdns9934:0crwdne9934:0",
+    "noTitle": "crwdns9936:0crwdne9936:0",
+    "scrollable": "crwdns9938:0crwdne9938:0",
+    "value": "crwdns9940:0crwdne9940:0"
+  }
+}

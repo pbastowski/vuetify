@@ -1,0 +1,33 @@
+{
+  "header": "crwdns9716:0crwdne9716:0",
+  "headerText": "crwdns9718:0crwdne9718:0",
+  "buy": "crwdns9720:0crwdne9720:0",
+  "free": "crwdns9722:0crwdne9722:0",
+  "demo": "crwdns9724:0crwdne9724:0",
+  "comingSoon": "crwdns9726:0crwdne9726:0",
+  "sourceCode": "crwdns9728:0crwdne9728:0",
+  "templates": [
+    {
+      "screenshot": "crwdns9730:0crwdne9730:0",
+      "title": "crwdns9732:0crwdne9732:0",
+      "tag": "crwdns9734:0crwdne9734:0",
+      "description": "crwdns9736:0crwdne9736:0",
+      "price": "crwdns9738:0crwdne9738:0",
+      "demoUrl": "crwdns9740:0crwdne9740:0"
+    },
+    {
+      "screenshot": "crwdns9742:0crwdne9742:0",
+      "title": "crwdns9744:0crwdne9744:0",
+      "description": "crwdns9746:0crwdne9746:0",
+      "sourceUrl": "crwdns9748:0crwdne9748:0",
+      "demoUrl": "crwdns9750:0crwdne9750:0"
+    },
+    {
+      "screenshot": "crwdns9752:0crwdne9752:0",
+      "title": "crwdns9754:0crwdne9754:0",
+      "description": "crwdns9756:0crwdne9756:0",
+      "sourceUrl": "crwdns9758:0crwdne9758:0",
+      "demoUrl": "crwdns9760:0crwdne9760:0"
+    }
+  ]
+}

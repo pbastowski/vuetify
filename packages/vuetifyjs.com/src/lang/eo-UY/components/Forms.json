@@ -1,0 +1,29 @@
+{
+  "header": "crwdns7038:0crwdne7038:0",
+  "headerText": "crwdns7040:0[Vee-validate]crwdnd7040:0[vuelidate]crwdne7040:0",
+  "examples": {
+    "usage": {
+      "desc": "crwdns7042:0crwdne7042:0"
+    },
+    "validationWithSubmitAndClear": {
+      "header": "crwdns7044:0crwdne7044:0",
+      "desc": "crwdns7046:0crwdne7046:0"
+    },
+    "vuelidate": {
+      "header": "crwdns7048:0crwdne7048:0",
+      "desc": "crwdns7050:0crwdne7050:0"
+    },
+    "veeValidate": {
+      "header": "crwdns7052:0crwdne7052:0",
+      "desc": "crwdns7054:0crwdne7054:0"
+    }
+  },
+  "props": {
+    "lazyValidation": "crwdns7056:0crwdne7056:0",
+    "value": "crwdns7058:0crwdne7058:0"
+  },
+  "functions": {
+    "reset": "crwdns7060:0crwdne7060:0",
+    "validate": "crwdns7062:0crwdne7062:0"
+  }
+}

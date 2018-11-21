@@ -1,0 +1,38 @@
+{
+  "header": "crwdns6460:0crwdne6460:0",
+  "headerText": "crwdns6462:0crwdne6462:0",
+  "supplemental": [
+    "crwdns6464:0crwdne6464:0"
+  ],
+  "examples": {
+    "combobox": {
+      "header": "crwdns6466:0crwdne6466:0",
+      "desc": "crwdns6468:0crwdne6468:0"
+    },
+    "noData": {
+      "header": "crwdns6470:0crwdne6470:0",
+      "desc": "crwdns6472:0crwdne6472:0"
+    },
+    "advanced": {
+      "header": "crwdns6474:0crwdne6474:0",
+      "desc": "crwdns6476:0crwdne6476:0"
+    },
+    "comboboxMultiple": {
+      "header": "crwdns6478:0crwdne6478:0",
+      "desc": "crwdns6480:0crwdne6480:0"
+    }
+  },
+  "slots": {
+    "item": "crwdns6482:0crwdne6482:0",
+    "no-data": "crwdns6484:0crwdne6484:0",
+    "selection": "crwdns6486:0crwdne6486:0"
+  },
+  "scopedSlots": {
+    "item": "crwdns6488:0crwdne6488:0",
+    "selection": "crwdns6490:0crwdne6490:0"
+  },
+  "events": {
+    "update:error": "crwdns6492:0crwdne6492:0",
+    "update:searchInput": "crwdns6494:0crwdne6494:0"
+  }
+}

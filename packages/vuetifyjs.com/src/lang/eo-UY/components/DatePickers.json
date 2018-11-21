@@ -1,0 +1,136 @@
+{
+  "header": "crwdns6622:0crwdne6622:0",
+  "headerText": "crwdns6624:0crwdne6624:0",
+  "examples": {
+    "dateLight": {
+      "header": "crwdns6626:0crwdne6626:0",
+      "desc": "crwdns6628:0crwdne6628:0"
+    },
+    "dateColorable": {
+      "header": "crwdns6630:0crwdne6630:0",
+      "desc": "crwdns6632:0crwdne6632:0"
+    },
+    "dateDialogAndMenu": {
+      "header": "crwdns6634:0crwdne6634:0",
+      "desc": "crwdns6636:0crwdne6636:0"
+    },
+    "dateFormatting": {
+      "header": "crwdns6638:0crwdne6638:0",
+      "desc": "crwdns6640:0crwdne6640:0"
+    },
+    "dateFormattingMomentDatefns": {
+      "header": "crwdns6642:0crwdne6642:0",
+      "desc": "crwdns6644:0crwdne6644:0"
+    },
+    "dateAllowedDates": {
+      "header": "crwdns6646:0crwdne6646:0",
+      "desc": "crwdns6648:0crwdne6648:0"
+    },
+    "dateMultiple": {
+      "header": "crwdns6650:0crwdne6650:0",
+      "desc": "crwdns6652:0crwdne6652:0"
+    },
+    "dateWidth": {
+      "header": "crwdns6654:0crwdne6654:0",
+      "desc": "crwdns6656:0crwdne6656:0"
+    },
+    "dateBirthday": {
+      "header": "crwdns6658:0crwdne6658:0",
+      "desc": "crwdns6660:0crwdne6660:0"
+    },
+    "datePickerDate": {
+      "header": "crwdns6662:0crwdne6662:0",
+      "desc": "crwdns6664:0crwdne6664:0"
+    },
+    "dateEvents": {
+      "header": "crwdns6666:0crwdne6666:0",
+      "desc": "crwdns6668:0crwdne6668:0"
+    },
+    "dateInternationalization": {
+      "header": "crwdns6670:0crwdne6670:0",
+      "desc": "crwdns6672:0crwdne6672:0"
+    },
+    "dateIcons": {
+      "header": "crwdns6674:0crwdne6674:0",
+      "desc": "crwdns6676:0crwdne6676:0"
+    },
+    "dateReadonly": {
+      "header": "crwdns6678:0crwdne6678:0",
+      "desc": "crwdns6680:0crwdne6680:0"
+    },
+    "dateCurrent": {
+      "header": "crwdns6682:0crwdne6682:0",
+      "desc": "crwdns6684:0crwdne6684:0"
+    },
+    "monthLight": {
+      "header": "crwdns6686:0crwdne6686:0",
+      "desc": "crwdns6688:0crwdne6688:0"
+    },
+    "monthColorable": {
+      "header": "crwdns6690:0crwdne6690:0",
+      "desc": "crwdns6692:0crwdne6692:0"
+    },
+    "monthDialogAndMenu": {
+      "header": "crwdns6694:0crwdne6694:0",
+      "desc": "crwdns6696:0crwdne6696:0"
+    },
+    "monthAllowedMonths": {
+      "header": "crwdns6698:0crwdne6698:0",
+      "desc": "crwdns6700:0crwdne6700:0"
+    },
+    "monthMultiple": {
+      "header": "crwdns6702:0crwdne6702:0",
+      "desc": "crwdns6704:0crwdne6704:0"
+    },
+    "monthWidth": {
+      "header": "crwdns6706:0crwdne6706:0",
+      "desc": "crwdns6708:0crwdne6708:0"
+    },
+    "monthEvents": {
+      "header": "crwdns6710:0crwdne6710:0",
+      "desc": "crwdns6712:0crwdne6712:0"
+    },
+    "monthInternationalization": {
+      "header": "crwdns6714:0crwdne6714:0",
+      "desc": "crwdns6716:0crwdne6716:0"
+    },
+    "monthIcons": {
+      "header": "crwdns6718:0crwdne6718:0",
+      "desc": "crwdns6720:0crwdne6720:0"
+    },
+    "monthReadonly": {
+      "header": "crwdns6722:0crwdne6722:0",
+      "desc": "crwdns6724:0crwdne6724:0"
+    },
+    "monthCurrent": {
+      "header": "crwdns6726:0crwdne6726:0",
+      "desc": "crwdns6728:0crwdne6728:0"
+    }
+  },
+  "props": {
+    "v-date-picker": {
+      "type": "crwdns6730:0crwdne6730:0",
+      "monthFormat": "crwdns6732:0crwdne6732:0",
+      "allowedDates": "crwdns6734:0crwdne6734:0",
+      "eventColor": "crwdns6736:0crwdne6736:0",
+      "events": "crwdns6738:0crwdne6738:0",
+      "locale": "crwdns6740:0crwdne6740:0",
+      "firstDayOfWeek": "crwdns6742:0crwdne6742:0",
+      "titleDateFormat": "crwdns6744:0crwdne6744:0",
+      "headerDateFormat": "crwdns6746:0crwdne6746:0",
+      "yearFormat": "crwdns6748:0crwdne6748:0",
+      "dayFormat": "crwdns6750:0crwdne6750:0",
+      "yearIcon": "crwdns6752:0crwdne6752:0",
+      "min": "crwdns6754:0crwdne6754:0",
+      "max": "crwdns6756:0crwdne6756:0",
+      "pickerDate": "crwdns6758:0crwdne6758:0",
+      "nextIcon": "crwdns6760:0crwdne6760:0",
+      "prevIcon": "crwdns6762:0crwdne6762:0",
+      "reactive": "crwdns6764:0crwdne6764:0",
+      "readonly": "crwdns6766:0crwdne6766:0",
+      "scrollable": "crwdns6768:0crwdne6768:0",
+      "showCurrent": "crwdns6770:0crwdne6770:0",
+      "value": "crwdns6772:0crwdne6772:0"
+    }
+  }
+}

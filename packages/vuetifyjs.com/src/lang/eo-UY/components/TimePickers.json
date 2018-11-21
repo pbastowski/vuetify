@@ -1,0 +1,41 @@
+{
+  "header": "crwdns8376:0crwdne8376:0",
+  "headerText": "crwdns8378:0crwdne8378:0",
+  "examples": {
+    "timeLight": {
+      "header": "crwdns8380:0crwdne8380:0",
+      "desc": "crwdns8382:0crwdne8382:0"
+    },
+    "timeColorable": {
+      "header": "crwdns8384:0crwdne8384:0",
+      "desc": "crwdns8386:0crwdne8386:0"
+    },
+    "timeDialogAndMenu": {
+      "header": "crwdns8388:0crwdne8388:0",
+      "desc": "crwdns8390:0crwdne8390:0"
+    },
+    "time24hFormat": {
+      "header": "crwdns8392:0crwdne8392:0",
+      "desc": "crwdns8394:0crwdne8394:0"
+    },
+    "timeAllowedTimes": {
+      "header": "crwdns8396:0crwdne8396:0",
+      "desc": "crwdns8398:0crwdne8398:0"
+    },
+    "timeWidth": {
+      "header": "crwdns8400:0crwdne8400:0",
+      "desc": "crwdns8402:0crwdne8402:0"
+    }
+  },
+  "props": {
+    "v-time-picker": {
+      "format": "crwdns8404:0crwdne8404:0",
+      "allowedHours": "crwdns8406:0crwdne8406:0",
+      "allowedMinutes": "crwdns8408:0crwdne8408:0",
+      "scrollable": "crwdns8410:0crwdne8410:0",
+      "min": "crwdns8412:0crwdne8412:0",
+      "max": "crwdns8414:0crwdne8414:0",
+      "value": "crwdns8416:0crwdne8416:0"
+    }
+  }
+}

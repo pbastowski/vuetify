@@ -1,0 +1,63 @@
+{
+  "header": "crwdns7560:0crwdne7560:0",
+  "headerText": "crwdns7562:0crwdne7562:0",
+  "examples": {
+    "circularDefault": {
+      "header": "crwdns7564:0crwdne7564:0",
+      "desc": "crwdns7566:0crwdne7566:0"
+    },
+    "circularColored": {
+      "header": "crwdns7568:0crwdne7568:0",
+      "desc": "crwdns7570:0crwdne7570:0"
+    },
+    "circularIndeterminate": {
+      "header": "crwdns7572:0crwdne7572:0",
+      "desc": "crwdns7574:0crwdne7574:0"
+    },
+    "circularSizeAndWidth": {
+      "header": "crwdns7576:0crwdne7576:0",
+      "desc": "crwdns7578:0crwdne7578:0"
+    },
+    "circularRotate": {
+      "header": "crwdns7580:0crwdne7580:0",
+      "desc": "crwdns7582:0crwdne7582:0"
+    },
+    "linearDeterminate": {
+      "header": "crwdns7584:0crwdne7584:0",
+      "desc": "crwdns7586:0crwdne7586:0"
+    },
+    "linearIndeterminate": {
+      "header": "crwdns7588:0crwdne7588:0",
+      "desc": "crwdns7590:0crwdne7590:0"
+    },
+    "linearBuffer": {
+      "header": "crwdns7592:0crwdne7592:0",
+      "desc": "crwdns7594:0crwdne7594:0"
+    },
+    "linearQueryIndeterminateAndDeterminate": {
+      "header": "crwdns7596:0crwdne7596:0",
+      "desc": "crwdns7598:0crwdne7598:0"
+    },
+    "linearCustomHeightAndContextualColors": {
+      "header": "crwdns7600:0crwdne7600:0",
+      "desc": "crwdns7602:0crwdne7602:0"
+    },
+    "linearCustomColors": {
+      "header": "crwdns7604:0crwdne7604:0",
+      "desc": "crwdns7606:0crwdne7606:0"
+    }
+  },
+  "props": {
+    "active": "crwdns7608:0crwdne7608:0",
+    "backgroundColor": "crwdns7610:0crwdne7610:0",
+    "backgroundOpacity": "crwdns7612:0crwdne7612:0",
+    "bufferValue": "crwdns7614:0crwdne7614:0",
+    "button": "crwdns7616:0crwdne7616:0",
+    "fill": "crwdns7618:0crwdne7618:0",
+    "indeterminate": "crwdns7620:0crwdne7620:0",
+    "rotate": "crwdns7622:0crwdne7622:0",
+    "size": "crwdns7624:0crwdne7624:0",
+    "value": "crwdns7626:0crwdne7626:0",
+    "width": "crwdns7628:0crwdne7628:0"
+  }
+}

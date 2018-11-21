@@ -1,0 +1,27 @@
+{
+  "header": "crwdns7012:0crwdne7012:0",
+  "headerText": "crwdns7014:0crwdne7014:0",
+  "examples": {
+    "default": {
+      "header": "crwdns7016:0crwdne7016:0",
+      "desc": "crwdns7018:0crwdne7018:0"
+    },
+    "companyFooter": {
+      "header": "crwdns7020:0crwdne7020:0",
+      "desc": "crwdns7022:0crwdne7022:0"
+    },
+    "indigoFooter": {
+      "header": "crwdns7024:0crwdne7024:0",
+      "desc": "crwdns7026:0crwdne7026:0"
+    },
+    "tealFooter": {
+      "header": "crwdns7028:0crwdne7028:0",
+      "desc": "crwdns7030:0crwdne7030:0"
+    }
+  },
+  "props": {
+    "absolute": "crwdns7032:0crwdne7032:0",
+    "fixed": "crwdns7034:0crwdne7034:0",
+    "inset": "crwdns7036:0crwdne7036:0"
+  }
+}

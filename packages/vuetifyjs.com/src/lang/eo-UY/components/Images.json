@@ -1,0 +1,37 @@
+{
+  "header": "crwdns7160:0crwdne7160:0",
+  "headerText": "crwdns7162:0[vuetify-loader]crwdne7162:0",
+  "examples": {
+    "usage": {
+      "desc": "crwdns7164:0crwdne7164:0"
+    },
+    "containCover": {
+      "header": "crwdns7166:0crwdne7166:0",
+      "desc": "crwdns7168:0crwdne7168:0"
+    },
+    "maxHeight": {
+      "header": "crwdns7170:0crwdne7170:0",
+      "desc": "crwdns7172:0crwdne7172:0"
+    },
+    "ratio": {
+      "header": "crwdns7174:0crwdne7174:0",
+      "desc": "crwdns7176:0crwdne7176:0"
+    },
+    "gradients": {
+      "header": "crwdns7178:0crwdne7178:0",
+      "desc": "crwdns7180:0crwdne7180:0"
+    }
+  },
+  "props": {
+    "alt": "crwdns7182:0crwdne7182:0",
+    "aspectRatio": "crwdns7184:0crwdne7184:0",
+    "contain": "crwdns7186:0crwdne7186:0",
+    "gradient": "crwdns7188:0[linear-gradient]crwdne7188:0",
+    "lazySrc": "crwdns7190:0[vuetify-loader]crwdne7190:0",
+    "position": "crwdns7192:0crwdne7192:0",
+    "sizes": "crwdns7194:0[MDN]crwdne7194:0",
+    "src": "crwdns7196:0crwdne7196:0",
+    "srcset": "crwdns7198:0crwdne7198:0",
+    "transition": "crwdns7200:0crwdne7200:0"
+  }
+}
