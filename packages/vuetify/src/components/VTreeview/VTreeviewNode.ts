@@ -164,7 +164,21 @@ export default mixins<options>(
       return this.$createElement('div', {
         slot: 'label',
         staticClass: 'v-treeview-node__label'
-      }, children)
+          on: {
+            click: (ev: any) => this.treeview.emitClick(ev, this.item),
+            contextmenu: (ev: any) => {
+              ev.preventDefault()
+              this.treeview.emitContextMenu(ev, this.item)
+            }
+          },
+          domProps: {
+            // Item is draggable, but not if it has children (folder)
+            ...(this.treeview.itemDraggable && !this.item.children && { draggable: true }),
+            // Folder (item with children) is draggable
+            ...(this.treeview.folderDraggable && this.item.children && { draggable: true })
+          }
+        }, children
+      )
     },
     genContent () {
       const children = [

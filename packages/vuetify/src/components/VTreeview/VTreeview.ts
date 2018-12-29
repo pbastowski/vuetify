@@ -68,7 +68,9 @@ export default mixins(
       type: Array,
       default: () => ([])
     } as PropValidator<NodeArray>,
-    ...VTreeviewNodeProps
+    ...VTreeviewNodeProps,
+    itemDraggable: Boolean,
+    folderDraggable: Boolean
   },
 
   data: () => ({
@@ -217,6 +219,12 @@ export default mixins(
     },
     emitActive () {
       this.$emit('update:active', [...this.activeCache])
+    },
+    emitClick (ev: any, item: any) {
+      this.$emit('click-item', ev, item)
+    },
+    emitContextMenu (ev: any, item: any) {
+      this.$emit('contextmenu-item', ev, item)
     },
     getDescendants (key: string | number, descendants: NodeArray = []) {
       const children = this.nodes[key].children
